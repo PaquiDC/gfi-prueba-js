@@ -1,4 +1,4 @@
-# Prueba técnica GFI: Javascript Vanil
+# Prueba técnica GFI: Javascript Vanila
 ## Uso
 1. Abra en un explorador el archico `index.html`.
 2. Use el usurio `admin` y clave `admin` para hacer login.
